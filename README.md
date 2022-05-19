@@ -1,6 +1,7 @@
 <h1 id="title">Test Fullstack Developer - Loops.id</h1>
 
-<p id="description">Using Laravel Queue and Jobs for Email delivery with Gmail SMTP Server</p>
+<p id="description">Proyek ini adalah gambaran arsitektur sistem dimana data Users, Posts dan Comments saling berhubungan.</p>
+<p id="description">Dimana seorang User memiliki data Post yang memiliki Title, Slug dan Content, Disisi lain Posts memiliki komentar dari User yang telah teregistrasi dan User Guest.</p>
 
 ## Installation
 
